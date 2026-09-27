@@ -112,3 +112,12 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Unity Version Control (Plastic SCM) - bruges ikke i dette projekt, vi bruger Git/GitHub
+.plastic/
+ignore.conf
+
+# Styresystem-rod (Mac og Windows)
+.DS_Store
+Thumbs.db
+Desktop.ini
